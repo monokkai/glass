@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/you/glass"
+	"github.com/monokkai/glass"
 )
 
 func main() {
